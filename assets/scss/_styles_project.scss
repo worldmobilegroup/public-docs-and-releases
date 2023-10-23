@@ -1,0 +1,36 @@
+@font-face {
+    font-display: swap;
+    font-family: 'Aeonik light';
+    src: url("/fonts/aeonik/Aeonik-Light.woff2");
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'Aeonik Regular';
+    src: url("/fonts/aeonik/Aeonik-Regular.woff2");
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'Aeonik Medium';
+    src: url("/fonts/aeonik/Aeonik-Medium.woff2");
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'Aeonik Bold';
+    src: url("/fonts/aeonik/Aeonik-Bold.woff2");
+}
+
+.td-navbar .navbar-brand svg {
+    width: 2em;
+}
+
+body{
+    font-family: 'Aeonik Regular', sans-serif;
+}
+
+a {
+    color: $primary;
+}
+
