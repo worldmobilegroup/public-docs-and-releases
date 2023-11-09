@@ -13,8 +13,7 @@ To install the EarthNode, you must do the following:
 To register the EarthNode, you must do the following:
 1. [Connect the Wallet](/earth-node/5-joining-the-testnet/2-install-and-register/3-connect-wallet) to World Mobile.
 2. [Register the EarthNode](/earth-node/5-joining-the-testnet/2-install-and-register/4-register-earthnode).
-3. [Become a validator](/earth-node/5-joining-the-testnet/2-install-and-register/6-become-a-validator).
-4. [Configure the Chain Follower](/earth-node/5-joining-the-testnet/2-install-and-register/7-cardano-chain-follower-configuration)
+3. [Configure the Chain Follower](/earth-node/5-joining-the-testnet/2-install-and-register/7-cardano-chain-follower-configuration)
 
 We will go in detail over these steps, but first, some dependencies need to be installed
 Here we show which ones, and the command to install them:

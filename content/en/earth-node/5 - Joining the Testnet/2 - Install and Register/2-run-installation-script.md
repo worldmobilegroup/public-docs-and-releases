@@ -19,11 +19,11 @@ To install the EarthNode, complete the following steps:
 
 __Synchronisation of the EarthNode starts.__
 {{<alert title="Note">}}The node will use `state-sync` mode to sync with chain. This means, that in place of syncing from block 1 (what can take, depending on the number of blocks that need to be synchronised and the speed of your
-connection, up to several days or even weeks), it will use latest snapshot of network state that generates every 15000 blocks. In this case synchronisation should take few minutes at max.{{</alert>}}
+connection, up to several days or even weeks), it will use latest snapshot of network state that generates every 4000 blocks. In this case synchronisation should take few minutes at max.{{</alert>}}
 
-Until synchronisation is complete, you cannot get a delegation. However, you can connect your wallet to World Mobile
+You can connect your wallet to World Mobile
 and register your EarthNode with the ENNFT in your wallet, before synchronisation is complete.
 {{<alert title="Note">}}If you register your EarthNode before installation is complete and the script fails,
-you must re-run the script. Rerunning the script generates a new moniker for your EarthNode. If this happens, you
+you must re-run the script. Rerunning the script generates a a new JSON structure for your EarthNode. If this happens, you
 must deregister your EarthNode and register again using the updated JSON structure. For information on deregistering your
 EarthNode, see the [Deregister the EarthNode topic](/earth-node/5-joining-the-testnet/2-install-and-register/5-deregister-the-earthnode){{</alert>}}
