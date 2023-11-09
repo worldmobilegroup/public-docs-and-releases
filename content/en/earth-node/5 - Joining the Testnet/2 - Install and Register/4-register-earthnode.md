@@ -1,5 +1,5 @@
 ---
-title: Register EarthNode
+title: Register EarthNode and Become a Validator
 description: Use the EarthNode Registration Manager to register your EarthNode.
 weight: 4
 ---
@@ -14,10 +14,14 @@ Output__ text box.
 6. Enter your Eternl password in the __Sign__ text box.
 7. Select the __Sign__ button. When the transaction completes, a message displays in the EarthNode Registration Manager.
 If successful, the transaction hash is included in the success message. If you select the transaction hash, you can view
-the details of the transaction in a Cardano explorer, for example [Cexplorer](https://cexplorer.io).
+the details of the transaction in a Cardano explorer, for example [Cexplorer](https://preview.cexplorer.io/tx/6588923dcc6968ce51b889b9ac14fd5be578ce276c94185e412dabcd8618baf4).
 
-You can now return to the terminal and check on the synchronisation of your EarthNode. When synchronisation completes,
-you are invited to become a validator.
+You can now return to the terminal and check on the synchronisation of your EarthNode.
+
+When the synchronisation completes, the script will wait until information from the Cardano transaction reaches AyA (usually take 20-25 minutes).
+
+Congratulations, you are now a validator.
+
 {{<alert title="Note">}}If you register your EarthNode before installation is complete and the script fails, you must
 re-run the installation script as described in the
 [Run the Installation Script](/earth-node/5-joining-the-testnet/2-install-and-register/2-run-installation-script) topic. Rerunning

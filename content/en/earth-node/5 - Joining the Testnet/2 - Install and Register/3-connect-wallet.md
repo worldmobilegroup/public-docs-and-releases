@@ -11,8 +11,8 @@ To connect your wallet to World Mobile, complete the following steps:
    3. You have set collateral, as describe in the [Set collateral](/earth-node/5-joining-the-testnet/1-environment-requirements/4-set-collateral) topic.
    4. Your wallet is synchronised. You can see when your selected wallet was last synchronised at the top of Eternl.
     To synchronise your selected wallet, select the __Sync__ icon next to your test ADA total.
-2. In your browser, navigate to http://35.246.86.181/. The World Mobile EarthNode Registration Manager displays.
+2. In your browser, navigate to [http://35.242.161.205/](http://35.242.161.205/). The World Mobile EarthNode Registration Manager displays.
 3. If necessary, select the __Obtain EarthNode NFT__ tab at the top of the Registration Manager.
-4. Select the __Connect Wallet_ button to connect your wallet to the EarthNode Registration Manager. The ENNFTs available
+4. Select the __Connect Wallet__ button to connect your wallet to the EarthNode Registration Manager. The ENNFTs available
 in your wallet are listed. You are now ready to register your EarthNode.
 5. Select the ENNFT you want to claim.

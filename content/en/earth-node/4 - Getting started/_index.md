@@ -4,6 +4,7 @@ description: How to become an EarthNode operator.
 #categories: [Examples, Placeholders]
 #tags: [test, docs]
 weight: 4
+draft: true
 ---
 
 This section, to be completed, will explain how one can become an EarthNode operator. We will learn about the EarthNode

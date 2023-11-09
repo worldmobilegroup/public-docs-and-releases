@@ -19,5 +19,5 @@ using the unjail transaction.
 If your validator is jailed, you can unjail it using the following command:
 
 ```shell
-$ ayad tx slashing unjail --from <yourAccountName> --home /opt/aya --chain-id <chainIdHere>
+$ ayad tx registration unjail --from <yourAccountName> --home /opt/aya --chain-id <chainIdHere>
 ```

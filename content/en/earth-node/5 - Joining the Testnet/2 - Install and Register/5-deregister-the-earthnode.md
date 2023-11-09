@@ -12,4 +12,4 @@ To deregister the EarthNode in the EarthNode Registration Manager, complete the 
 4. Enter your Eternl password in the __Sign__ text box.
 5. Select the __Sign__ button. When the transaction completes, a message displays in the EarthNode Registration Manager.
 If successful, the transaction hash is included in the success message. If you select the transaction hash, you can view
-the details of the transaction in a Cardano explorer, for example [Cexplorer](https://cexplorer.io).
+the details of the transaction in a Cardano explorer, for example [Cexplorer](https://preview.cexplorer.io/tx/c1ef35ae8b7edd91f083ee9d9d0e2ff8d64a17395ceb07e4d916aef5bfc9d6d9).

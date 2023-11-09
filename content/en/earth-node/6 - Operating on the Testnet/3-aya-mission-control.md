@@ -72,8 +72,10 @@ last proposed block, missing blocks and voting power.
 5. Optionally, update the following entries:
     * _external_rpc_: This defines a secondary remote procedure call endpoint that can be used to ensure that the
    validator is up-to-date and check any synchronisation or missed blocks. You can use either of the following endpoints:
-      * peer1-501.worldmobilelabs.com:26657
-      * peer2-501.worldmobilelabs.com:26657
+        * 34.67.7.216:26657
+        * 34.121.228.97:26657
+        * 34.163.11.82:26657
+        * 34.163.200.162:26657
     * _enable_telegram_alerts_: By default, you won't receive telegram alerts. If you want to receive these alerts, set
    this entry to _yes_.
     * _enable_email_alerts_: By default, you won-t receive email alerts. If you want to receive these alerts, set this 

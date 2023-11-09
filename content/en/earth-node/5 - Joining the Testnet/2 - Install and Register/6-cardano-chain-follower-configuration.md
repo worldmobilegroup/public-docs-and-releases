@@ -21,3 +21,5 @@ To configure the CCF, complete the following steps:
 1. Download the latest CCF installation package.
 2. Extract content to any directory.
 3. Run the installation script `./install_ccf.sh`.
+
+The script will copy files to the `/opt/aya/ccf` directory and it will create `systemd` service that will manage the process.
